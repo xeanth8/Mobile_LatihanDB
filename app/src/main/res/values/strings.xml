@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kelompok 15: Database</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="login_title">Get started</string>
+    <string name="btn_register">Register</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_backToLogin">Back to Login</string>
+    <string name="hint_kodeBarang">Kode Barang</string>
+    <string name="hint_namaBarang">Nama Barang</string>
+    <string name="hint_hargaBarang">Harga Barang</string>
+    <string name="btn_create">Add</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_read">View</string>
+
+</resources>
